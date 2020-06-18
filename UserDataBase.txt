@@ -1,0 +1,5 @@
+##1##		==Gökberk Boz==@@Boz@@**560000.0**
+##2##		==Irmak Celiker==@@Celiker@@**1568000.0**
+##3##		==Gizem Karal==@@Karal@@**891500.0**
+##4##		==Mali Altunsoy==@@Altunsoy@@**485000.0**
+##5##		==Mustafa Can Çavdar==@@Cavdar@@**0.0**

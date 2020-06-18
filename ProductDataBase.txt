@@ -1,0 +1,15 @@
+##1##		==Vintage Motorcyle==@@Motorcycle 150 CC 2016 traffic out. Its like a horse, flying horse. 0 traffic accident. Selling since i will buy 2018 model. No bargain, no trade with another vehicle. Real buyers can call.@@**vehicle**$$60000.0$$££100000.0££%%60000.0%%--1--??true??++4++&&2019-12-24 16:20&&
+##2##		==Commodore 64==@@Commadore 64 is an old gaming console. We spent countless hours with it. However, i need to sell this. Product is in full operation. I will give some old school games with console free.@@**electronics**$$500.0$$££2500.0££%%500.0%%--1--??false??++null++&&2019-12-24 16:20&&
+##3##		==Christmas Jumper==@@jumper@@**clothes**$$100.0$$££250.0££%%125.0%%--1--??false??++null++&&2019-12-24 16:20&&
+##4##		==Cuckoo Clock==@@clock@@**furnitere**$$1250.0$$££3000.0££%%1250.0%%--1--??false??++null++&&2019-12-24 16:20&&
+##5##		==2014 Model Fiat Doblo==@@Has LPG. Have 1 accident report from past owners. All maintenance are done. Has very large luggace capacity. You can carry all your family and your barbeque. Also has a little fridge for beers.@@**vehicle**$$30000.0$$££45000.0££%%30000.0%%--2--??false??++null++&&2019-12-24 16:20&&
+##6##		==Mouse Model X==@@Mouse Model X is a new mouse. I just used it for 1 year. I am selling it since i sell all my computer components. Its fully operational but don't have warranty. That is why it is cheap.@@**electronics**$$80.0$$££300.0££%%120.0%%--2--??false??++null++&&2019-12-24 16:20&&
+##7##		==Blue Shirt==@@ blue shirt@@**clothes**$$100.0$$££230.0££%%100.0%%--2--??false??++null++&&2019-12-24 16:20&&
+##8##		==Garderobe==@@Gardrobe@@**furnitere**$$3250.0$$££10000.0££%%3250.0%%--2--??false??++null++&&2019-12-24 16:20&&
+##9##		==Volvo XC90 2015==@@Volvo XC90 2015 model 4x4 200 HP, 2400 CC Diesel engine. No damage. White, xenon lamps, seat heating, Road computer and parking sensors. At 192.000 KM. Could trade equal worth SUVS.@@**vehicle**$$550000.0$$££700000.0££%%550000.0%%--3--??false??++null++&&2019-12-24 16:20&&
+##10##		==Sandisc USB 64 GB==@@ I got 20 of them, bought it from abroad so selling them from lower price. Get one before it runs out.@@**electronics**$$5.0$$££50.0££%%5.0%%--3--??false??++null++&&2019-12-24 16:20&&
+##11##		==Christmas Hat==@@Christmas Hat@@**clothes**$$50.0$$££125.0££%%50.0%%--3--??false??++null++&&2019-12-24 16:20&&
+##12##		==Christmas Tree==@@Christmas tree@@**furnitere**$$300.0$$££700.0££%%300.0%%--3--??false??++null++&&2019-12-24 16:20&&
+##13##		==Ferrari Enzo 2013==@@Ferrari Enzo 2013 model one of seven in Turkey. Just real buyers.@@**vehicle**$$1250000.0$$££2000000.0££%%1250000.0%%--4--??false??++null++&&2019-12-24 16:20&&
+##14##		==Logitech G999==@@super colored, mechanic gaming keyboard. It has 50 different LED lighting and 1 m/sec reaction time. Has 2 years of warranty. Has both USB cable and jack cable.@@**electronics**$$80.0$$££225.0££%%80.0%%--4--??false??++null++&&2019-12-24 16:20&&
+##15##		==Wolkswagen 2017 Golf==@@Bluemotiion pack, also have Highline rims. Just winter tires. Diesel, automatic. 125 HP. Burn less, escapes much.@@**vehicle**$$95000.0$$££120000.0££%%95000.0%%--4--??false??++null++&&2018-12-25 13:47&&
